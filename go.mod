@@ -1,4 +1,4 @@
-module hello.go
+module solution
 
 go 1.17
 
